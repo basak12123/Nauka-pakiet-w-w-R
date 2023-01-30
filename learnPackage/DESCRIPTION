@@ -1,0 +1,10 @@
+Package: learnPackage
+Type: Package
+Title: What the Package Does (Title Case)
+Version: 0.1.0
+Author: Filip
+Maintainer: The package maintainer <yourself@somewhere.net>
+Description: This package is for learning how to make packages
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
